@@ -1,1 +1,2 @@
 # TinyML
+This project focuses on developing a Smart Garbage Detection system using TinyML, to make it TinyML compatible we used the Tensorflow Lite library. The system classifies waste into six categories: cardboard, glass, metal, paper, plastic, and trash. By leveraging machine learning on resource-constrained devices, the model is trained and deployed to classify waste efficiently in real time. The project covers dataset preparation, model development, optimization, and deployment on an embedded system. 
